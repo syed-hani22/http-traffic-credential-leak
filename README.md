@@ -7,9 +7,6 @@ This project analyzes a `.pcap` file that was originally labeled as FTP traffic.
 ## 📂 Files
 
 - `http-traffic-analysis.pcapng` – Captured network traffic
-- `/screenshots` – (Optional) Screens showing analysis steps
-
----
 
 ## 🎯 Objective
 
